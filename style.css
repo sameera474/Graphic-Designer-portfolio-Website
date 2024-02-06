@@ -362,7 +362,7 @@ height: 50px;
 }
 
 .scroll-container {
-    width: 80%; 
+    width: 75%; 
     overflow-x: scroll;
     scrollbar-color:rgba(254, 4, 179, 1) #02013b56;
     scrollbar-width: reinitialvert;
