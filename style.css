@@ -350,7 +350,7 @@ height: 50px;
 
 /* Projects section */
 
-/* .project{
+.project{
     display: grid;
     grid-auto-flow: row;
     align-items: center;
@@ -359,7 +359,7 @@ height: 50px;
     text-align: center;
     padding: auto;
     color: white;
-} */
+}
 
 .scroll-container {
     width: 50%; 
